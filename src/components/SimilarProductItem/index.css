@@ -1,0 +1,5 @@
+.similar-product-item {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+}

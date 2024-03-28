@@ -1,0 +1,187 @@
+.product-item-detail-container {
+  display: flex;
+  flex-direction: column;
+  margin: 50px;
+}
+.product-item-detail-top-container {
+  display: flex;
+  flex-direction: row;
+}
+.product-item-detail-test-container {
+  display: flex;
+  flex-direction: column;
+  margin-left: 40px;
+}
+.product-image {
+  width: 60vh;
+  height: 90vh;
+  border-radius: 30px;
+}
+.heading {
+  color: #12022f;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 30px;
+}
+.text-rate {
+  color: #12022f;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 22px;
+}
+.price {
+  color: #12022f;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 22px;
+  margin-left: 5px;
+}
+.price-container {
+  display: flex;
+  align-items: center;
+}
+.price-logo {
+  color: #12022f;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 22px;
+}
+.rating {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 22px;
+  margin-left: 5px;
+}
+.rating-view {
+  background-color: #3b82f6;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 20px;
+  padding: 20px;
+  border-radius: 5px;
+}
+.star {
+  color: #ffffff;
+  font-size: 25px;
+  margin-bottom: 30px;
+  margin-right: 5px;
+}
+.rating-reviews {
+  display: flex;
+  align-items: center;
+}
+.review-container {
+  display: flex;
+}
+.reviews {
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 16px;
+  margin-left: 10px;
+}
+.reviews-text {
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 16px;
+  margin-left: 3px;
+}
+.description {
+  color: #616e7c;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 20px;
+}
+.available {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.brand {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.available-text {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 16px;
+}
+.Brand-text {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 16px;
+}
+.available-text-l {
+  color: #616e7c;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 16px;
+  margin-left: 6px;
+}
+.Brand-text-l {
+  color: #616e7c;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 16px;
+  margin-left: 6px;
+}
+.line {
+  border: 1px solid #cbced2;
+  width: 100%;
+}
+.increment-number {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.decrement-logo {
+  color: #000000;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 20px;
+  margin-right: 10px;
+}
+.increment-logo {
+  color: #000000;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 20px;
+  margin-left: 10px;
+}
+.text-number {
+  color: #616e7c;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 20px;
+  font-weight: bold;
+}
+.add-to-cart-btn {
+  width: 24vh;
+  color: #ffffff;
+  background-color: #3b82f6;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 16px;
+  outline: none;
+  border-width: 0px;
+  padding: 8px;
+  border-radius: 4px;
+}
+.similar-unOrdered-list {
+  display: flex;
+  flex-direction: row;
+  padding-left: 0px;
+}
+
+.minus {
+  margin-right: 10px;
+}
+.plus {
+  margin-left: 10px;
+}
